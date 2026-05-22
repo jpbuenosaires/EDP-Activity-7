@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <AssemblyName>InformationSystem</AssemblyName>
+    <RootNamespace>InformationSystem</RootNamespace>
+    <ApplicationIcon />
+    <StartupObject>InformationSystem.Program</StartupObject>
+  </PropertyGroup>
+
+</Project>

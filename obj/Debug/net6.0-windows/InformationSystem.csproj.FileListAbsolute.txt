@@ -1,0 +1,14 @@
+C:\Users\Jayson Buenosaires\Desktop\EDP\bin\Debug\net6.0-windows\InformationSystem.exe
+C:\Users\Jayson Buenosaires\Desktop\EDP\bin\Debug\net6.0-windows\InformationSystem.deps.json
+C:\Users\Jayson Buenosaires\Desktop\EDP\bin\Debug\net6.0-windows\InformationSystem.runtimeconfig.json
+C:\Users\Jayson Buenosaires\Desktop\EDP\bin\Debug\net6.0-windows\InformationSystem.dll
+C:\Users\Jayson Buenosaires\Desktop\EDP\bin\Debug\net6.0-windows\InformationSystem.pdb
+C:\Users\Jayson Buenosaires\Desktop\EDP\obj\Debug\net6.0-windows\InformationSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jayson Buenosaires\Desktop\EDP\obj\Debug\net6.0-windows\InformationSystem.AssemblyInfoInputs.cache
+C:\Users\Jayson Buenosaires\Desktop\EDP\obj\Debug\net6.0-windows\InformationSystem.AssemblyInfo.cs
+C:\Users\Jayson Buenosaires\Desktop\EDP\obj\Debug\net6.0-windows\InformationSystem.csproj.CoreCompileInputs.cache
+C:\Users\Jayson Buenosaires\Desktop\EDP\obj\Debug\net6.0-windows\InformationSystem.dll
+C:\Users\Jayson Buenosaires\Desktop\EDP\obj\Debug\net6.0-windows\refint\InformationSystem.dll
+C:\Users\Jayson Buenosaires\Desktop\EDP\obj\Debug\net6.0-windows\InformationSystem.pdb
+C:\Users\Jayson Buenosaires\Desktop\EDP\obj\Debug\net6.0-windows\InformationSystem.genruntimeconfig.cache
+C:\Users\Jayson Buenosaires\Desktop\EDP\obj\Debug\net6.0-windows\ref\InformationSystem.dll
